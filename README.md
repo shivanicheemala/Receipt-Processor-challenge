@@ -55,7 +55,7 @@ $response.Content
 
 ### Run the following command using receipt-id you get from above
 
-curl http://localhost:8081/receipts/<receipt_id>/points
+curl http://localhost:8080/receipts/<receipt_id>/points
 
 
 
